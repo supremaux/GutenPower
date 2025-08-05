@@ -2,7 +2,7 @@
   "name": "gutenpower",
   "version": "1.0.0",
   "description": "Tema totalmente compátivel com Gutenberg e Gutenkit. Diga adeus ao Elementor.",
-  "main": "index.js",
+  "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

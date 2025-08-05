@@ -1,0 +1,8 @@
+/* Adicione estilos personalizados para o editor Gutenberg aqui */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.wp-block {
+    max-width: 100%;
+}
