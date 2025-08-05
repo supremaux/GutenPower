@@ -1,0 +1,18 @@
+/wp-content/themes/gutenpower/
+├── style.css
+├── index.php
+├── functions.php
+├── header.php
+├── footer.php
+├── single.php
+├── archive.php
+├── page.php
+├── screenshot.png
+├── /templates
+│   └── ...
+├── /inc
+│   └── ...
+├── /assets
+    ├── /css
+    ├── /js
+    └── /images

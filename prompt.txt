@@ -1,0 +1,3 @@
+você pode criar um tema para wordpress chamado "GutenPower", sendo ele totalmente editável com o editor de blocos Gutenberg e totalmente compatível com o plugin GutenKit (https://wordpress.org/plugins/gutenkit-blocks-addon/)?
+Os menus, widgets, header, footer e principalmente, o post individual (single.php) precisam ser editáveis com o editor de blocos Gutenberg e compátiveis com o plugin GutenKit.
+Sinta-se livre para fazer todas as otimizações e melhorias necessárias para garantir um bom funcionamento do tema e uma boa experiência do usuário.

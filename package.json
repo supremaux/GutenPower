@@ -1,0 +1,20 @@
+{
+  "name": "gutenpower",
+  "version": "1.0.0",
+  "description": "Tema totalmente compátivel com Gutenberg e Gutenkit. Diga adeus ao Elementor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supremaux/GutenPower.git"
+  },
+  "keywords": [],
+  "author": "Suprema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supremaux/GutenPower/issues"
+  },
+  "homepage": "https://github.com/supremaux/GutenPower#readme"
+}
