@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<main id="site-content">
+<main id="site-content" class="site-content text-3xl font-bold">
     <?php
     if (have_posts()) {
         while (have_posts()) {
